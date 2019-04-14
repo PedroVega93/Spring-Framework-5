@@ -1,0 +1,18 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  margin: 0 auto;
+  background-color: white;
+  z-index: 5;
+  max-width:  1200px;
+}
+
+.contenedorHeader{
+  width: auto;
+  height: 214.7px;
+  display: flex;
+}
+.header{
+  background-color: rgb(12, 145, 41);
+}
